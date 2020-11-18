@@ -1,0 +1,2 @@
+# fullseries
+Pelisplus
